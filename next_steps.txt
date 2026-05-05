@@ -2,8 +2,20 @@ QUICK START
 -----------
 Requires Python 3.12+
 
-pip install -r requirements.txt
-python extract_menu.py espn_bet.pdf output/menu.json
+1. Clone the repository and enter the directory:
+   git clone https://github.com/taras-ivanyk/Take-Home-Assignment.git
+   cd Take-Home-Assignment
+
+2. (Recommended) Create and activate a virtual environment:
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+3. Install dependencies:
+   pip install --upgrade pip
+   pip install -r requirements.txt
+
+4. Run the extraction script:
+   python extract_menu.py espn_bet.pdf output/menu.json
 
 See README.md for full documentation.
 See AI_USAGE.md for AI tool usage notes.
