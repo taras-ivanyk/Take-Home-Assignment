@@ -1,0 +1,693 @@
+[
+  {
+    "dish_id": "001",
+    "category": "LEADING OFF",
+    "dish_name": "JUMBO GERMAN PRETZEL",
+    "price": "$16",
+    "description": "caramelized onion dip, queso blanco, house-made honey mustard"
+  },
+  {
+    "dish_id": "002",
+    "category": "LEADING OFF",
+    "dish_name": "CHEESE WEDGES",
+    "price": "$14",
+    "description": "marinara sauce"
+  },
+  {
+    "dish_id": "003",
+    "category": "LEADING OFF",
+    "dish_name": "PORK NACHOS",
+    "price": "$20",
+    "description": "pulled pork, chorizo, hot corn dip, pickled red onions, queso blanco, cilantro, avocado"
+  },
+  {
+    "dish_id": "004",
+    "category": "LEADING OFF",
+    "dish_name": "SWEET CHILI BRUSSELS SPROUTS",
+    "price": "$12",
+    "description": "fpo description, fpo description, fpo description"
+  },
+  {
+    "dish_id": "005",
+    "category": "SLIDER TOWERS",
+    "dish_name": "HOT DOG TOWER",
+    "price": "$18",
+    "description": "four mini hotdogs with chicago sauce"
+  },
+  {
+    "dish_id": "006",
+    "category": "SLIDER TOWERS",
+    "dish_name": "NASHVILLE CHICKEN SLIDERS",
+    "price": "$18",
+    "description": "lettuce, coleslaw, pickles, biscuit"
+  },
+  {
+    "dish_id": "007",
+    "category": "SLIDER TOWERS",
+    "dish_name": "DOUBLE-FRIED CHICKEN SLIDERS",
+    "price": "$18",
+    "description": "korean bbq sauce & coleslaw"
+  },
+  {
+    "dish_id": "008",
+    "category": "SLIDER TOWERS",
+    "dish_name": "BIG EASY SLIDERS",
+    "price": "$18",
+    "description": "jumbo shrimp, lettuce, spicy remoulade, tomato"
+  },
+  {
+    "dish_id": "009",
+    "category": "SLIDER TOWERS",
+    "dish_name": "SUGAR WAFFLE SLIDERS",
+    "price": "$18",
+    "description": "pulled pork, cheddar, smoky bbq sauce, crispy onions"
+  },
+  {
+    "dish_id": "010",
+    "category": "AIN’T NO THING BUT A CHICKEN…",
+    "subcategory": "JUMBO CHICKEN WINGS",
+    "dish_name": "6 WINGS",
+    "price": "$12",
+    "description": ""
+  },
+  {
+    "dish_id": "011",
+    "category": "AIN’T NO THING BUT A CHICKEN…",
+    "subcategory": "BREADED CHICKEN TENDERS",
+    "dish_name": "3 WINGS",
+    "price": "$12",
+    "description": ""
+  },
+  {
+    "dish_id": "012",
+    "category": "AIN’T NO THING BUT A CHICKEN…",
+    "subcategory": "JUMBO CHICKEN WINGS",
+    "dish_name": "12 WINGS",
+    "price": "$19",
+    "description": ""
+  },
+  {
+    "dish_id": "013",
+    "category": "AIN’T NO THING BUT A CHICKEN…",
+    "subcategory": "BREADED CHICKEN TENDERS",
+    "dish_name": "6 WINGS",
+    "price": "$22",
+    "description": ""
+  },
+  {
+    "dish_id": "014",
+    "category": "AIN’T NO THING BUT A CHICKEN…",
+    "subcategory": "JUMBO CHICKEN WINGS",
+    "dish_name": "18 WINGS",
+    "price": "$25",
+    "description": ""
+  },
+  {
+    "sauce_id": "001",
+    "category": "SIGNATURE SAUCES",
+    "sauce_name": "GARLIC PARMESAN"
+  },
+  {
+    "sauce_id": "002",
+    "category": "SIGNATURE SAUCES",
+    "sauce_name": "BACON BOURBON GHOST"
+  },
+  {
+    "sauce_id": "003",
+    "category": "SIGNATURE SAUCES",
+    "sauce_name": "MEMPHIS BBQ"
+  },
+  {
+    "sauce_id": "004",
+    "category": "SIGNATURE SAUCES",
+    "sauce_name": "VAMPIRE SLAYER"
+  },
+  {
+    "sauce_id": "005",
+    "category": "SIGNATURE SAUCES",
+    "sauce_name": "KOREAN BBQ"
+  },
+  {
+    "sauce_id": "006",
+    "category": "SIGNATURE RUBS",
+    "sauce_name": "WHISKEY & SMOKE"
+  },
+  {
+    "sauce_id": "007",
+    "category": "SIGNATURE RUBS",
+    "sauce_name": "MESQUITE"
+  },
+  {
+    "sauce_id": "008",
+    "category": "SIGNATURE RUBS",
+    "sauce_name": "SWEET CHILI"
+  },
+  {
+    "sauce_id": "009",
+    "category": "SIGNATURE RUBS",
+    "sauce_name": "SALT & VINEGAR"
+  },
+  {
+    "sauce_id": "010",
+    "category": "SIGNATURE RUBS",
+    "sauce_name": "BUFFALO"
+  },
+  {
+    "sauce_id": "011",
+    "category": "SIGNATURE RUBS",
+    "sauce_name": "CAJUN"
+  },
+  {
+    "sauce_id": "012",
+    "category": "SIGNATURE RUBS",
+    "sauce_name": "HONEY HABANERO"
+  },
+  {
+    "sauce_id": "013",
+    "category": "SIGNATURE RUBS",
+    "sauce_name": "MAPLE CHIPOTLE"
+  },
+  {
+    "sauce_id": "014",
+    "category": "SIGNATURE RUBS",
+    "sauce_name": "NASHVILLE HOT"
+  },
+  {
+    "dish_id": "015",
+    "category": "FLIGHTS",
+    "dish_name": "4 WINGS & 4 SAUCES",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "016",
+    "category": "FLIGHTS",
+    "dish_name": "8 WINGS & 8 SAUCES",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "017",
+    "category": "SALADS & SOUP",
+    "dish_name": "CHOPPED SALAD",
+    "price": "$14",
+    "description": "romaine lettuce, roasted chicken, avocado, tomatoes, cabbage, bacon, scallions, corn, tortilla chips, citrus vinaigrette"
+  },
+  {
+    "dish_id": "018",
+    "category": "SALADS & SOUP",
+    "dish_name": "HOUSE SALAD",
+    "price": "$12",
+    "description": "iceberg lettuce, diced tomatoes, cucumbers, fried onion strings, shredded cheese"
+  },
+  {
+    "dish_id": "019",
+    "category": "SALADS & SOUP",
+    "dish_name": "SOUP OF THE DAY",
+    "price": "$6",
+    "description": "ask your server about our soup of the day"
+  },
+  {
+    "dish_id": "020",
+    "category": "HANDHELDS",
+    "dish_name": "CRISPY CHICKEN",
+    "price": "$17",
+    "description": "lettuce, tomato, pickles, onion, brioche"
+  },
+  {
+    "dish_id": "021",
+    "category": "HANDHELDS",
+    "dish_name": "CUBAN ROLL",
+    "price": "$18",
+    "description": "pulled pork, black forest ham, swiss, pickles, yellow mustard, hoagie"
+  },
+  {
+    "dish_id": "022",
+    "category": "HANDHELDS",
+    "dish_name": "BLACKENED CHICKEN",
+    "price": "$17",
+    "description": "bacon onion jam, pepperjack, lettuce, tomato, pickle, spicy mayo, brioche bun"
+  },
+  {
+    "dish_id": "023",
+    "category": "BURGERS",
+    "dish_name": "ALL AMERICAN BURGER",
+    "price": "$17",
+    "description": "7 oz. steakburger, choice of cheese, lettuce, tomato, onion, pickles, brioche bun"
+  },
+  {
+    "dish_id": "024",
+    "category": "BURGERS",
+    "dish_name": "BBQ BACON BURGER",
+    "price": "$19",
+    "description": "7 oz. steakburger, rootbeer bbq sauce, smoked bacon, cheddar, onion strings, brioche bun"
+  },
+  {
+    "dish_id": "025",
+    "category": "BURGERS",
+    "dish_name": "CHICAGO DOG BURGER",
+    "price": "$19",
+    "description": "7 oz. steakburger, grilled hot dog, chicago sauce, american, grilled onions, brioche bun"
+  },
+  {
+    "dish_id": "026",
+    "category": "MAIN EVENT",
+    "dish_name": "CLASSIC FISH & CHIPS",
+    "price": "$20",
+    "description": "atlantic cod, sidewinders, coleslaw, tartar sauce"
+  },
+  {
+    "dish_id": "027",
+    "category": "MAIN EVENT",
+    "dish_name": "STEAK FRITES",
+    "price": "$32",
+    "description": "10 oz. sirloin filet, garlic fries, herbed butter"
+  },
+  {
+    "dish_id": "028",
+    "category": "MAIN EVENT",
+    "dish_name": "LOADED MAC",
+    "price": "$22",
+    "description": "chopped bacon, green onions, sour cream, cheddar jack, crispy potatoes"
+  },
+  {
+    "dish_id": "029",
+    "category": "MAIN EVENT",
+    "dish_name": "NASHVILLE MAC",
+    "price": "$23",
+    "description": "crispy chicken, nashville hot sauce, sour cream"
+  },
+  {
+    "dish_id": "030",
+    "category": "MAIN EVENT",
+    "dish_name": "SMOKED MAC",
+    "price": "$23",
+    "description": "smoked pulled pork, fried onions, bbq sauce"
+  },
+  {
+    "dish_id": "031",
+    "category": "SIDES",
+    "dish_name": "SIDEWINDER FRIES",
+    "price": "$8",
+    "description": ""
+  },
+  {
+    "dish_id": "032",
+    "category": "SIDES",
+    "dish_name": "CRISPY BRUSSELS SPROUTS",
+    "price": "$6",
+    "description": ""
+  },
+  {
+    "dish_id": "033",
+    "category": "SIDES",
+    "dish_name": "COLESLAW",
+    "price": "$4",
+    "description": ""
+  },
+  {
+    "dish_id": "034",
+    "category": "SIDES",
+    "dish_name": "ONION PETALS",
+    "price": "$8",
+    "description": ""
+  },
+  {
+    "dish_id": "035",
+    "category": "SIDES",
+    "dish_name": "SWEET POTATO FRIES",
+    "price": "$7",
+    "description": ""
+  },
+  {
+    "dish_id": "036",
+    "category": "SIDES",
+    "dish_name": "SEASONAL VEGETABLE",
+    "price": "$6",
+    "description": ""
+  },
+  {
+    "dish_id": "037",
+    "category": "OVERTIME",
+    "dish_name": "CHURRO DOG",
+    "price": "$12",
+    "description": "chocolate long john, churro, vanilla ice cream, whipped cream, caramel & chocolate sauce, nut crunch"
+  },
+  {
+    "dish_id": "038",
+    "category": "OVERTIME",
+    "dish_name": "DUBAI TRIFLE",
+    "price": "$12",
+    "description": "chocolate brownie, pistachio cream, toasted coconut, chocolate ganache"
+  },
+  {
+    "dish_id": "039",
+    "category": "OVERTIME",
+    "dish_name": "NY CHEESECAKE",
+    "price": "$12",
+    "description": "mixed berry sauce"
+  },
+  {
+    "dish_id": "040",
+    "category": "OVERTIME",
+    "dish_name": "DOUGHNUT HOLES",
+    "price": "$10",
+    "description": "fried dough filled with mixed berries & chocolate sauce"
+  },
+  {
+    "dish_id": "041",
+    "category": "SIGNATURE COCKTAILS",
+    "dish_name": "DILLINOIS",
+    "price": "$X",
+    "description": "miller lite, pickle brine, lime juice, hot sauce"
+  },
+  {
+    "dish_id": "042",
+    "category": "SIGNATURE COCKTAILS",
+    "dish_name": "CHI-LADA ROYALE",
+    "price": "$X",
+    "description": "modelo especial, zing zang michelada mix, lime juice, seasoning"
+  },
+  {
+    "dish_id": "043",
+    "category": "SIGNATURE COCKTAILS",
+    "dish_name": "BENNY’S BULLSEYE BLOODY",
+    "price": "$X",
+    "description": "new amsterdam heat check vodka, zing zang bloody mary mix, olive brine, lime juice, smoked paprika"
+  },
+  {
+    "dish_id": "044",
+    "category": "SIGNATURE COCKTAILS",
+    "dish_name": "WATERMELON SUGAR HIGH",
+    "price": "$X",
+    "description": "patrón reposado tequila, dos hombres mezcal, reàl watermelon puree, fever-tree sparkling pink grapefruit"
+  },
+  {
+    "dish_id": "045",
+    "category": "SIGNATURE COCKTAILS",
+    "dish_name": "SIDE BETS FLIGHT BOARD",
+    "price": "$X",
+    "description": "dillinois, beer of choice, pickleback shot, garnished with dill popcorn"
+  },
+  {
+    "dish_id": "046",
+    "category": "SIGNATURE COCKTAILS",
+    "dish_name": "CLEAR THE BOARD",
+    "price": "$X",
+    "description": "don julio blanco tequila, cointreau, supasawa, agave syrup, garnished with a jello shot"
+  },
+  {
+    "dish_id": "047",
+    "category": "SIGNATURE COCKTAILS",
+    "dish_name": "PEAR PRESSURE",
+    "price": "$X",
+    "description": "grey goose la poire vodka, belle de brillet pear liqueur, rich vanilla syrup, lemon juice, fever-tree ginger beer"
+  },
+  {
+    "dish_id": "048",
+    "category": "SIGNATURE COCKTAILS",
+    "dish_name": "MONSTERS OF MIDWAY",
+    "price": "$X",
+    "description": "knob creek rye, maple syrup, lemon juice, egg whites, smoked cinnamon bitters, orange bitters"
+  },
+  {
+    "dish_id": "049",
+    "category": "ZERO PROOF",
+    "dish_name": "GOLDEN B-SIDE",
+    "price": "$X",
+    "description": "ritual zero-proof tequila alternative, giffard aperitif, pineapple, reàl mango puree, fever-tree sparkling sicilian lemonade"
+  },
+  {
+    "dish_id": "050",
+    "category": "ZERO PROOF",
+    "dish_name": "PEACH 42",
+    "price": "$X",
+    "description": "seedlip grove 42, giffard aperitif, reàl peach puree, lemon, orange blossom water"
+  },
+  {
+    "dish_id": "051",
+    "category": "ZERO PROOF",
+    "dish_name": "B&T",
+    "price": "$X",
+    "description": "seedlip 108, reàl blueberry puree, rich vanilla, lemon, fever-tree elderflower tonic water"
+  },
+  {
+    "dish_id": "052",
+    "category": "DRAFT BEER",
+    "dish_name": "MILLER LITE",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "053",
+    "category": "DRAFT BEER",
+    "dish_name": "COORS LIGHT",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "054",
+    "category": "DRAFT BEER",
+    "dish_name": "BUD LIGHT",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "055",
+    "category": "DRAFT BEER",
+    "dish_name": "MICHELOB ULTRA",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "056",
+    "category": "DRAFT BEER",
+    "dish_name": "BLUE MOON BELGIAN WHITE",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "057",
+    "category": "DRAFT BEER",
+    "dish_name": "HEINEKEN ORIGINAL",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "058",
+    "category": "DRAFT BEER",
+    "dish_name": "MODELO ESPECIAL",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "059",
+    "category": "DRAFT BEER",
+    "dish_name": "DOS EQUIS LAGER ESPECIAL",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "060",
+    "category": "DRAFT BEER",
+    "dish_name": "SAMUEL ADAMS BOSTON LAGER",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "061",
+    "category": "DRAFT BEER",
+    "dish_name": "DOGFISH HEAD IPA",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "062",
+    "category": "DRAFT BEER",
+    "dish_name": "STONE IPA",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "063",
+    "category": "DRAFT BEER",
+    "dish_name": "NEW BELGIUM FAT TIRE ALE",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "064",
+    "category": "DRAFT BEER",
+    "dish_name": "PERONI NASTRO AZZURRO",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "065",
+    "category": "DRAFT BEER",
+    "dish_name": "REVOLUTION ANTI-HERO IPA",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "066",
+    "category": "DRAFT BEER",
+    "dish_name": "YUENGLING TRADITIONAL LAGER",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "067",
+    "category": "DRAFT BEER",
+    "dish_name": "ANGRY ORCHARD HARD CIDER",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "068",
+    "category": "BOTTLES & CANS",
+    "dish_name": "MILLER LITE",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "069",
+    "category": "BOTTLES & CANS",
+    "dish_name": "COORS LIGHT",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "070",
+    "category": "BOTTLES & CANS",
+    "dish_name": "BUD LIGHT",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "071",
+    "category": "BOTTLES & CANS",
+    "dish_name": "MICHELOB ULTRA",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "072",
+    "category": "BOTTLES & CANS",
+    "dish_name": "BLUE MOON BELGIAN WHITE",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "073",
+    "category": "BOTTLES & CANS",
+    "dish_name": "HEINEKEN 0.0",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "074",
+    "category": "BOTTLES & CANS",
+    "dish_name": "CORONA EXTRA",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "075",
+    "category": "BOTTLES & CANS",
+    "dish_name": "SUN CRUISER ICED TEA VODKA",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "076",
+    "category": "BOTTLES & CANS",
+    "dish_name": "TWISTED TEA HARD ICED TEA",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "077",
+    "category": "BOTTLES & CANS",
+    "dish_name": "TRULY HARD SELTZER",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "078",
+    "category": "BOTTLES & CANS",
+    "dish_name": "HIGH NOON VODKA SELTZER",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "079",
+    "category": "BOTTLES & CANS",
+    "dish_name": "WHITE CLAW HARD SELTZER",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "080",
+    "category": "WINES",
+    "dish_name": "DOMAINE STE. MICHELLE SPARKLING",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "081",
+    "category": "WINES",
+    "dish_name": "CHATEAU STE. MICHELLE RIESLING",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "082",
+    "category": "WINES",
+    "dish_name": "14 HANDS CHARDONNAY",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "083",
+    "category": "WINES",
+    "dish_name": "A TO Z PINOT NOIR",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "084",
+    "category": "WINES",
+    "dish_name": "COLUMBIA CREST RED BLEND",
+    "price": "$X",
+    "description": ""
+  },
+  {
+    "dish_id": "085",
+    "category": "ENERGY",
+    "dish_name": "RED BULL ENERGY DRINK",
+    "price": null,
+    "description": ""
+  },
+  {
+    "dish_id": "086",
+    "category": "ENERGY",
+    "dish_name": "RED BULL SUGARFREE",
+    "price": null,
+    "description": ""
+  },
+  {
+    "dish_id": "087",
+    "category": "ENERGY",
+    "dish_name": "RED BULL RED EDITION (WATERMELON)",
+    "price": null,
+    "description": ""
+  },
+  {
+    "dish_id": "088",
+    "category": "ENERGY",
+    "dish_name": "RED BULL YELLOW EDITION (TROPICAL)",
+    "price": null,
+    "description": ""
+  }
+]

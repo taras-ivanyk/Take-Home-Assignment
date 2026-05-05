@@ -1,0 +1,9 @@
+QUICK START
+-----------
+Requires Python 3.12+
+
+pip install -r requirements.txt
+python extract_menu.py espn_bet.pdf output/menu.json
+
+See README.md for full documentation.
+See AI_USAGE.md for AI tool usage notes.
